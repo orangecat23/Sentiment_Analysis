@@ -1,4 +1,5 @@
-# ml_main_proj
+# Sentiment_analysis
+
 Restaurant Review Sentiment Classifier
 This project trains a sentiment analysis model using DistilBERT to classify restaurant reviews as positive or negative. The model is fine-tuned on combined datasets from Yelp, Zomato, and a third review dataset.
 
